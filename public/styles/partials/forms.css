@@ -57,3 +57,11 @@ input {
 ::placeholder {
   color: #BFBFCC;
 }
+
+.input-wrapper{
+  width: 50%;
+}
+
+.input-wrapper-name {
+  width: calc(50% - 1rem);
+}
