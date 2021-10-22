@@ -53,7 +53,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[EJS](https://ejs.co/)**
 - **[SQLITE](https://www.sqlite.org/index.html)**
 
-> Veja o arquivo [package.json](https://github.com/DouglasMoraiis/JobsCalc/package.json)
+> Veja o arquivo [package.json](package.json)
 
 ## 🦸 Autor
 
