@@ -3,7 +3,7 @@
   <img src="public/images/logo.svg" height="53" width="230" alt="Logo JobsCalc" />
 </p>
 
-<p align="center">Created for Freelancer Devs to manage their Job. 👩‍💻</p>
+<p align="center">Created for Freelancer Devs to manage their Jobs. 👩‍💻</p>
 
 <div align="center">
 
