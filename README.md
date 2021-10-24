@@ -53,6 +53,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[EJS](https://ejs.co/)**
 - **[SQLITE](https://www.sqlite.org/index.html)**
 
+> Veja o arquivo [package.json](package.json)
+
 ## 🦸 Autor
 
 Oi, me chamo **Douglas Morais**. Entre em contato comigo! 👇 
