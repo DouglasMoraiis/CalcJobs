@@ -86,6 +86,7 @@ Oi, me chamo **Douglas Morais**. Entre em contato comigo! 👇
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença MIT. </br>
+Veja o arquivo [LICENSE](.github/LICENSE) para mais detalhes.
 
 <p align="center">Feito com 💚 por <a href="https://www.linkedin.com/in/douglasmorais">Douglas Morais</a>.</p> 
