@@ -7,12 +7,12 @@
 
 /* custom vars */
 :root {
-  --color-background: #F0F2F5;
+  --color-background: #ECECED;
   --color-text: #FCFDFF;
 
   --color-primary: #41414C;
-  --color-secondary: #F1972C;
-  --color-secondary-hover: #FA9C2D;
+  --color-secondary: #0081FF;
+  --color-secondary-hover: #009AFF;
   
   --color-input-background: #F8F8FC;
   --color-button-text: #FFFFFF;
@@ -21,7 +21,7 @@
 
   --color-card-background: var(--color-text);
   --color-card-title: #5A5A66;
-  --color-card-label: #BFBFCC;
+  --color-card-label: #FCFDFF;
   --color-card-content: #787880;
 
   --color-cancel: #E1E3E5;
