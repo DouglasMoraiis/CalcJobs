@@ -45,9 +45,9 @@ module.exports = {
             "daily-hours": req.body["daily-hours"],
         }
 
-        Job.update(updatedJob, jobId)
+        await Job.update(updatedJob, jobId)
 
-        res.redirect("/job/" + jobId)
+        res.redirect('/')
     },
     
     async delete(req, res) {
