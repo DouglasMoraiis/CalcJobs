@@ -3,7 +3,7 @@
   <img src="public/images/logo.svg" height="53" width="230" alt="Logo JobsCalc" />
 </p>
 
-<p align="center">Created for Freelancer Devs to manage their Job. 👩‍💻</p>
+<p align="center">Created for Freelancer Devs to manage their Jobs. 👩‍💻</p>
 
 <div align="center">
 
@@ -31,8 +31,15 @@ O Discover é um treinamento inicial online com conteúdos básicos de desenvolv
 
 ## 🎨 Layout
 
+O layout da aplicação está disponível no Figma:
 <p align="center">
-    <img src="assets/banner.png" height="500"  alt="Banner da dashboard do JobsCalc" />
+	<a href="https://www.figma.com/file/8W9v2S5mnnt21oub6JLHVE/Adaptation-of-JobsCalc">
+	  <img alt="Figma Badge" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+	</a>
+</p>
+
+<p align="center">
+    <img src=".github/banner.png" height="100%" width="85%" alt="Banner da dashboard do JobsCalc" />
 </p>
 
 ## ⚙ Funcionalidades
@@ -79,6 +86,7 @@ Oi, me chamo **Douglas Morais**. Entre em contato comigo! 👇
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença MIT. </br>
+Veja o arquivo [LICENSE](.github/LICENSE) para mais detalhes.
 
-<p align="center">Feito com 💚 por <a href="https://www.linkedin.com/in/douglasmorais">Douglas Morais</a>.</p> 
+<p align="center">Feito com 💙 por <a href="https://www.linkedin.com/in/douglasmorais">Douglas Morais</a>.</p> 
