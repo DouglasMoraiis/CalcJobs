@@ -18,7 +18,8 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
+ <a href="#-autor">Autor</a> • ![banner](https://user-images.githubusercontent.com/48259410/142089152-e8b59fa0-d9bd-48e7-aa8a-ac4ddd01ad58.png)
+
  <a href="#-licença">Licença</a>
 </p>
 
@@ -37,9 +38,8 @@ O layout da aplicação está disponível no Figma:
 	  <img alt="Figma Badge" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 	</a>
 </p>
-
 <p align="center">
-    <img src=".github/_banner.png" height="100%" width="85%" alt="Banner da dashboard do JobsCalc" />
+    <img src=".github/banner.png" height="90%" width="90%" alt="Banner da dashboard do JobsCalc" />
 </p>
 
 ## ⚙ Funcionalidades
