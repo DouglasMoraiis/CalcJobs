@@ -39,7 +39,7 @@ O layout da aplicação está disponível no Figma:
 </p>
 
 <p align="center">
-    <img src=".github/banner.png" height="100%" width="85%" alt="Banner da dashboard do JobsCalc" />
+    <img src=".github/_banner.png" height="100%" width="85%" alt="Banner da dashboard do JobsCalc" />
 </p>
 
 ## ⚙ Funcionalidades
