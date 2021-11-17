@@ -18,8 +18,7 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • ![banner](https://user-images.githubusercontent.com/48259410/142089152-e8b59fa0-d9bd-48e7-aa8a-ac4ddd01ad58.png)
-
+ <a href="#-autor">Autor</a> •
  <a href="#-licença">Licença</a>
 </p>
 
